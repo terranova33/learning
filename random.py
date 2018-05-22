@@ -3,7 +3,7 @@
 import random
 
 #choice() fn
-print("random number from range(100) : ", random.choice[(range(100))])
+print("random number from range(100) : ", random.choice[(range(100)])
 list = ([1, 3, 5, 7, 2, 6])
 print("random element from list : ", random.choice(list))
 str = ("Hello World!")
